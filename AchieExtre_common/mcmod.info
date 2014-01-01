@@ -1,0 +1,20 @@
+[
+{
+  "modid": "AchievExtrem",
+  "name": "Achievement Extreme",
+  "description": "Adds alot more achievements to the game",
+  "version": "0.3.0.0001",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "PlayPrey"
+  ],
+  "credits": "By PlayPrey, with help from Martjin and Photofobe",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
