@@ -14,7 +14,7 @@ import net.minecraft.tileentity.TileEntityDispenser;
 public class CommandResetMod extends CommandBase
 {
 
-
+public String pigsKilled = EntityLivingHandlerMobSlayerMisc.pigsKilled + "";
 
 
 
@@ -23,7 +23,10 @@ public String getCommandName()
 {
 return "ae.pigsKilled"; 
 }
-
+public int pigsKilledSetter()
+{ 
+return pigsKilled;
+}
 @Override
 public void processCommand(ICommandSender icommandsender, String[] astring)
 {
