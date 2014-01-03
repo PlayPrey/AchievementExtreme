@@ -14,7 +14,7 @@ import net.minecraft.tileentity.TileEntityDispenser;
 public class CommandResetMod extends CommandBase
 {
 
-public String pigsKilled = com.PlayPrey.AchievExtrem.Handler.EntityLivingHandlerMobSlayerMisc.pigsKilledSetter;
+public String pigsKilled = com.PlayPrey.AchievExtrem.Handler.EntityLivingHandlerMobSlayerMisc.pigsKilled;
 
 
 
