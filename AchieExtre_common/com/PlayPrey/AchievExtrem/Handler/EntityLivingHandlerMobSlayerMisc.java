@@ -39,7 +39,10 @@ import net.minecraftforge.event.entity.living.LivingDeathEvent;
 public class EntityLivingHandlerMobSlayerMisc 
 
 {  
-	
+	public int pigsKilledSetter()
+	{ 
+	return pigsKilled;
+	}
 	
 
 	public int cowsKilled = 0;
